@@ -74,6 +74,14 @@ Our 7 escalating questions test different structural and mathematical capabiliti
 
 ---
 
+### RAG Architectures Comparison Infographic
+
+Here is an architectural map of how each RAG variant processes the supply chain data:
+
+![Comparison of RAG Architectures](notebooks/infographics/rag_comparison_infographic.png)
+
+---
+
 ## 🚀 Setup & Execution Instructions
 
 ### Option A: Run in Google Colab (Recommended)
